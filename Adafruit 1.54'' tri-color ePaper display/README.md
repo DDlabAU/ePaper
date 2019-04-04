@@ -1,8 +1,8 @@
 # Adafruit RED/BLACK/WHITE 1.5'' ePaper
 ## Info og Opstilling
-_**Billede af opstilling.**_
+![alt text](https://github.com/DDlabAU/ePaper/blob/master/Adafruit%201.54''%20tri-color%20ePaper%20display/ePaperOps%C3%A6tning.png "Opstilling")
 
-Source: https://learn.adafruit.com/adafruit-eink-display-breakouts/drawing-bitmaps
+[Source](https://learn.adafruit.com/adafruit-eink-display-breakouts/drawing-bitmaps "Adafruit display guide")
 
 Displayet er 152x152 pixels.
 
